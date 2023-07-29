@@ -20,5 +20,10 @@ When we are using `heading` tags in our website or web pages.We should avoid som
 2. Avoid using `<br />` tags excessively to break up the entire page content. Instead, opt for employing multiple paragraph tags to create distinct sections.
 
 ---
+## Void Elements 
+We can use the void elements[self-closing-tag-elements] in our code.
+1. In Html 5 `<br /> === <br>`.
+2. And `<hr /> === <hr>`.
 
+---
 
