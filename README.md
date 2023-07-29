@@ -1,4 +1,4 @@
-# Html_And_Css
+# Notes
 
 ## Heading Tags
 
@@ -14,3 +14,11 @@ When we are using `heading` tags in our website or web pages.We should avoid som
 <h1>i Like heading One</h1>
 <h4>blahhh...blahhh...</h4>
 ```
+---
+## Paragraph Tags
+1. When creating content for our web pages, it is essential to use paragraph tags `<p></p>` to organize and present our information effectively.
+2. Avoid using `<br />` tags excessively to break up the entire page content. Instead, opt for employing multiple paragraph tags to create distinct sections.
+
+---
+
+
