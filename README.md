@@ -56,5 +56,56 @@ We can use the void elements[self-closing-tag-elements] in our code.
 ![nestedList](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/6463833c-6ef9-4d3d-9c92-ad0807d94f70)
 
 ---
+Another Example of Nested Lists: 
+
+```html
+<!-- Write your code below -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NestedListgoal</title>
+  </head>
+  <body>
+    <ul>
+      <li>A</li>
+      <li>
+        B
+        <ol>
+          <li>B1</li>
+          <li>
+            B2
+            <ul>
+              <li>
+                B2a
+                <ul>
+                  <li>B2aa</li>
+                  <li>B2ab</li>
+                </ul>
+              </li>
+              <li>B2b</li>
+              <li>B2c</li>
+            </ul>
+          </li>
+          <li>
+            B3
+            <ol>
+              <li>B31</li>
+              <li>B32</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>C</li>
+    </ul>
+  </body>
+</html>
+
+```
+`// Output `
+![AnotherNestedLists](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/174bbf9b-ff9a-409e-afca-0199c2337a2e)
+
+---
 
 
