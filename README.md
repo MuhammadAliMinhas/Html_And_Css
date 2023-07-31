@@ -50,6 +50,5 @@ We can use the void elements[self-closing-tag-elements] in our code.
       <li>C</li>
     </ul>
 ```
-`// Output` 
-(image)[‪C:\Users\DELL\Desktop\nestedList.PNG]
+
 
