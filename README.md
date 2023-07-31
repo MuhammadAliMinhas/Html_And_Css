@@ -54,12 +54,12 @@ We can use the void elements[self-closing-tag-elements] in our code.
 
 - A
 - B
-      - Ba
-      - Bb
-          1. Bb1
-          2. Bb2
-          3. Bb3
-      - Bc
+- Ba
+- Bb
+1. Bb1
+2. Bb2
+3. Bb3
+- Bc
 - C
 `// End`
 
