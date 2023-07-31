@@ -27,3 +27,28 @@ We can use the void elements[self-closing-tag-elements] in our code.
 
 ---
 
+## Nested Lists
+```html
+<h1>Welcome to Optical Iillusions</h1>
+    <ul>
+      <li>A</li>
+      <li>
+        B
+        <ul>
+          <li>Ba</li>
+          <li>
+            Bb
+            <ol>
+              <li>Bb1</li>
+              <li>Bb2</li>
+              <li>Bb3</li>
+            </ol>
+          </li>
+          <li>Bc</li>
+        </ul>
+      </li>
+      <li>C</li>
+    </ul>
+```
+
+
