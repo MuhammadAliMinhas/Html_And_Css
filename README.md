@@ -51,5 +51,8 @@ We can use the void elements[self-closing-tag-elements] in our code.
     </ul>
 
 ```
+`// Output`
+![nestedList](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/6463833c-6ef9-4d3d-9c92-ad0807d94f70)
+---
 
 
