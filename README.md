@@ -128,6 +128,7 @@ PicSum Images website provide us the some of the features that can be applied to
 - Sizing (dynamic Height & Width)
 - GrayScaling
 
+Let's apply some of these features on the random images.
 
 
 
