@@ -117,13 +117,11 @@ Lorem Picsum is the website, from where we can add `random` images in our websit
 ```html
 <img src="https://picsum.photos/200"alt="Random image "/>
 ```
-
 `// Output`
+
 ![random_Image1](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/dbdcdee4-e35a-45cc-a51e-5c86a97ae430)
 
 
-`// Output`
-![Uploading random_Image1.PNG…](Its Just an Sample Output Image)
 
 
 
