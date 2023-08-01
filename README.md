@@ -121,6 +121,8 @@ Lorem Picsum is the website, from where we can add `random` images in our websit
 
 ![random_Image1](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/dbdcdee4-e35a-45cc-a51e-5c86a97ae430)
 
+### Some Extra Features:
+
 PicSum Images website provide us the some of the features that can be applied to the images directly through the url. Some of them are as followed : 
 - Blur
 - Sizing (dynamic Height & Width)
