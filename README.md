@@ -141,7 +141,7 @@ Let's apply some of these features on the random images.
 #### 2. Custom height Wight Images
 ```html
 <img src="https://picsum.photos/700/500"alt="Random image "/>
-<!--here 700 is the custom height and 500 is the custom width -->
+<!--here 700 pixels is the custom height and 500 pixels is the custom width -->
 ```
 
 `// Output` 
