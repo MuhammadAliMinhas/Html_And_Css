@@ -138,8 +138,15 @@ Let's apply some of these features on the random images.
 
 ![blurRandomImage](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/4f729923-7316-4ddc-94ce-87bcd34c4c9c)
 
+#### 2. Custom height Wight Images
+```html
+<img src="https://picsum.photos/700/500"alt="Random image "/>
+<!--here 700 is the custom height and 500 is the custom width -->
+```
 
+`// Output` 
 
+![random_Image1](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/bc2d34da-59ae-4bc9-9e70-917892310e2b)
 
 
 
