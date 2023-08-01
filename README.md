@@ -110,5 +110,17 @@ Another Example of Nested Lists:
 ---
 ## Image Tag
 
+Images are necessary part of the ___Website___ that makes it look attractive.
+We can add images by the src attribute inside the `imag` tag in the ___HTML___.
+Lorem Picsum is the website, from where we can add `random` images in our website. Let's dive in to the imag Tag.
+
+```html
+<img src="https://picsum.photos/200"alt="Random image "/>
+```
+
+`// Output`
+![Uploading random_Image1.PNG…](Its Just an Sample Output Image)
+
+
 
 
