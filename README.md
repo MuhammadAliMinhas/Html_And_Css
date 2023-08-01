@@ -147,6 +147,7 @@ Let's apply some of these features on the random images.
 `// Output` 
 
 ![customSizedImages](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/4833a7c5-e953-407e-9abd-ed47b716119e)
+---
 
 
 
