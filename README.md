@@ -130,11 +130,12 @@ PicSum Images website provide us the some of the features that can be applied to
 
 Let's apply some of these features on the random images.
 
-### Blur Effect
+#### Blur Effect
 ```html
 <img src="https://picsum.photos/200?blur"alt="Random image "/>
 ```
 `// Output`
+
 ![blurRandomImage](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/4f729923-7316-4ddc-94ce-87bcd34c4c9c)
 
 
