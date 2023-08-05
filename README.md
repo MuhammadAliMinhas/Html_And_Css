@@ -148,7 +148,30 @@ Let's apply some of these features on the random images.
 
 ![customSizedImages](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/4833a7c5-e953-407e-9abd-ed47b716119e)
 ---
+## CSS Selectors
+There are many selectors in ***CSS*** but mainly used are as followed:
+- ID Selectors
+- Class Selectors
+### ID Selectors:
+```html
+<p id="hehe">Minhas</p>
+<p id="hehe">Arslan</p>
+```
 
+```css
+#hehe{
+    color: blue;
+    font-size: large;
+    font-weight: 900;
+}
 
+```
+
+`// Output`
+
+![CSS_ID_Glitch](https://github.com/MuhammadAliMinhas/Html_And_Css/assets/113331851/89703d41-10a4-4cde-9e76-fa0d128ab3a7)
+
+Here we have two paragraph tags with the `Same ID` attribute. It is the wrong practice, but it will be working correctly due to some brower conventions.
+So it will be better to use `different ID` for the elements we want to style individualy.
 
 
